@@ -1,0 +1,17 @@
+Metadata-Version: 2.2
+Name: src
+Version: 1.0.0
+Summary: My first ml project-> a small example of movie recommendation system 
+Home-page: https://github.com/nehalthakur/movie-recommender
+Author: Nehal Thakur
+Author-email: nehalthakur_cs24a05_007@dtu.ac.in
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
