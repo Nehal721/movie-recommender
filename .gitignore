@@ -14,7 +14,7 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Ignore model & dataset files (if large)
-*.pkl
+#*.pkl
 *.h5
 *.csv
 *.json
